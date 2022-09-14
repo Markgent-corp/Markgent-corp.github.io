@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5104f821.css",
+    "main.js": "/static/js/main.6ca177ba.js",
+    "static/media/php.png": "/static/media/php.d8a13ed88907bab63556.png",
+    "static/media/cyber-security.png": "/static/media/cyber-security.441f0fe30b3771b05393.png",
+    "static/media/header-pic.png": "/static/media/header-pic.815286f6c3c40c4dd34f.png",
+    "index.html": "/index.html",
+    "main.5104f821.css.map": "/static/css/main.5104f821.css.map",
+    "main.6ca177ba.js.map": "/static/js/main.6ca177ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5104f821.css",
+    "static/js/main.6ca177ba.js"
+  ]
+}
